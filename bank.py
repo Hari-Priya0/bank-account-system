@@ -35,7 +35,6 @@ class SavingsAccount(Account):
         print("Savings account withdrawal")
         super().withdraw(amount)
 
-
 accounts = {}
 
 def create_account():
