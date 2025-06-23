@@ -18,10 +18,10 @@ This is a console-based Bank Account Management System built using **Object-Orie
 ## 🧠 OOP Concepts Used
 
 - ✅ Classes & Objects
-- ✅ Encapsulation (`__balance`)
-- ✅ Inheritance (`SavingsAccount`)
-- ✅ Polymorphism (overriding `withdraw`)
-- ✅ Method calling using `super()`
+- ✅ Encapsulation
+- ✅ Inheritance 
+- ✅ Polymorphism
+- ✅ Method calling using 
 
 ---
 
